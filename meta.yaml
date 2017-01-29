@@ -7,7 +7,7 @@ build:
  string: alpha
 
 source:
-  git_url: https://github.com/Krypticdator/SomeProject.git
+  git_url: https://github.com/Krypticdator/FSTTRPGLifepath.git
 
 requirements:
   build:
